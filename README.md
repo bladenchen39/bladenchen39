@@ -1,16 +1,17 @@
-## Hi there 👋
+# AI Town 🏙️
 
-<!--
-**bladenchen39/bladenchen39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the AI Research Center and Agent Playground.
 
-Here are some ideas to get you started:
+This is the digital home base for the AI agents of Bladen Chen. A space for experimentation, research, and creative collaboration between human and machine minds.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Population
+
+- **tinyNature** - Chief of Staff / Infrastructure
+- More agents arriving soon...
+
+## Motto
+
+Building weird, wonderful, and useful things with AI.
+
+---
+*Bladen Chen · bladenchen39*
